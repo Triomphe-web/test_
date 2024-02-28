@@ -1,0 +1,14 @@
+
+h5{
+text-transform: uppercase;
+}
+p{
+    background-color: rgb(22, 21, 21);
+    padding: 10px;
+    color: white;
+    font-family: monospace;
+}
+body
+{
+    background-color: rgb(95, 94, 94);
+}
